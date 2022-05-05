@@ -1,0 +1,6 @@
+name    salary  age
+mike    22000   40
+jack    30000   50
+tomm    18000   25
+judy    19000   25
+sidy    35000   30
